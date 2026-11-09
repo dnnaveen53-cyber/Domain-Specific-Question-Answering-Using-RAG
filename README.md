@@ -14,7 +14,7 @@ To provide accurate, context-based answers using relevant educational documents.
 Google Colab
 
 ## Technologies
-- Python
+- Python 
 - Retrieval-Augmented Generation
 - Document Processing
 - Vector Search
